@@ -1,1 +1,1 @@
-This is　JavaScript base Calculator.
+This is　 JavaScript base Calculator.
